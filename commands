@@ -1,0 +1,6 @@
+npm install -global expo-cli (para instalar Expo-cli)
+expo init shoppinglist (para crear el proyecto, recuerda selecionar la plantilla blank)
+cd shoppinglist 
+expo init
+
+
