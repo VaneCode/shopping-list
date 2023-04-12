@@ -13,7 +13,7 @@ const Item = (props: IItemProps) => {
     return (
         <View>
             <BouncyCheckbox isChecked={bought} onPress={setBought}/>
-            <Text></Text>
+            <Text>{props.data.text}</Text>
         </View>
     )
 }
